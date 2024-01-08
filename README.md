@@ -18,7 +18,7 @@ this method uses **CNNs to learn the signatures**, the structure of our fully co
 optimal and **GLCM is used to extract the texture features of the image.** In the model we will 
 create two classes for each user real and forgery.
 
-
+![Screenshot](https://github.com/sagarkj2001/Signature_Forgery_Detection/blob/main/Pictures/UI.png)
 
 
 ### Project PPT [**Signature_Forgery_PPT.pptx**](https://github.com/sagarkj2001/Signature_Forgery_Detection/blob/main/Signature_Forgery_PPT.pptx)
@@ -85,7 +85,7 @@ and analyzing misclassified samples to gain insights into potential areas for im
 for real-world use. Implement an interface or API that allows users to input signature images 
 and receive predictions. Continuously monitor the system's performance and collect user 
 feedback to identify any potential issues or areas for improvement.
-![Screenshot](https://github.com/sagarkj2001/Signature_Forgery_Detection/blob/main/Pictures/UI.png)
+
 
 ## Result
 ![Screenshot](https://github.com/sagarkj2001/Signature_Forgery_Detection/blob/main/Pictures/Result.png)
