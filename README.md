@@ -93,4 +93,3 @@ feedback to identify any potential issues or areas for improvement.
 
 ## Contact
 ### Email: sagarkj2001@hotmail.com
-**NOTE- This project in repository does not contain the full code. Please contact me for Full code.**
